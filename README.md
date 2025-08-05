@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sereywat
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React.js and node.js
-- 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me telegram
+- 💞️ I’m looking to collaborate 
 - 😄 Pronouns: man
 - ⚡ Fun fact: I like business.
 
