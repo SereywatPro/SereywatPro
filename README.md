@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sereywat
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React.js and node.js
+- 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate 
 - 😄 Pronouns: man
 - ⚡ Fun fact: I like business.
