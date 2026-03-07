@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sereywat</h1>
-<h3 align="center">A passionate Back-End developer and Ethical Hacking from Cambodia</h3>
+<h1 align="center">ជំរាបសួរ👋, ខ្ញុំបាទឈ្មោះ សេរីវឌ្ឍ</h1>
+<h3 align="center">ខ្ញុំចូលចិត្តជំនាញ Web Development និងEthical Hacking</h3>
 
-- 🔭 I’m currently working on **small project**
+- 🔭 ខ្ញុំបច្ចុប្បន្នកំពុងធ្វើការលើ **small project**
 
-- 🌱 I’m currently learning **Node.js & Linux**
+- 🌱 ខ្ញុំបច្ចុប្បន្នកំពុងរៀន **Node.js & Linux**
+  
+- 📫 ស្វែករកខ្ញុំតាមរយះ **Telegram <a href='t.me/sereywat'>(@sereywat) </a>**
 
-- 👯 I’m looking to collaborate on **Telegram**
+- 📄 ដឹងអំពីបទពិសោធន៍របស់ខ្ញុំ [ខ្ញុំបានរៀនជំនាញ Web Development និងEthical Hacking]
+  
+- ⚡ Fun fact **I like to learn business**
 
-- 📫 How to reach me **sereywat999@gmail.com**
-
-- 📄 Know about my experiences [I knew web development & some ethical Hacking]
-- ⚡ Fun fact **I like to learn business if I can!**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">ទំនាក់ទំនង់មកកាន់ខ្ញុំតាមរយះ:</h3>
 <p align="left">
   <a href='sereywat999@gmail.com'>sereywat999@gmail.com</a>
 </p>
