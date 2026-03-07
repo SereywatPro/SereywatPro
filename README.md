@@ -9,9 +9,9 @@
 
 - 📄 ដឹងអំពីបទពិសោធន៍របស់ខ្ញុំ [ខ្ញុំបានរៀនជំនាញ Web Development និងEthical Hacking]
   
-- ⚡ Fun fact **I like to learn business**
+- ⚡ Fun fact **I like business**
 
-<h3 align="left">ទំនាក់ទំនង់មកកាន់ខ្ញុំតាមរយះ:</h3>
+<h3 align="left">ទំនាក់ទំនង់មកកាន់ខ្ញុំតាមរយះ</h3>
 <p align="left">
   <a href='sereywat999@gmail.com'>sereywat999@gmail.com</a>
 </p>
