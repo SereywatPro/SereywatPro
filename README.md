@@ -7,7 +7,7 @@
   
 - 📫 ស្វែករកខ្ញុំតាមរយះ **Telegram <a href='t.me/sereywat'>(@sereywat) </a>**
 
-- 📄 ដឹងអំពីបទពិសោធន៍របស់ខ្ញុំ [ខ្ញុំបានរៀនជំនាញ Web Development និងEthical Hacking កម្រិតដំបូង]
+- 📄 ដឹងអំពីបទពិសោធន៍របស់ខ្ញុំ [ខ្ញុំបានរៀនជំនាញ Web Development និងEthical Hacking(កម្រិតមូលដ្ឋាន)]
   
 - ⚡ Fun fact **I like business**
 
